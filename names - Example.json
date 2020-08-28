@@ -1,0 +1,16 @@
+{
+  "people": [
+    {
+      "name": "Kevin",
+      "pastRecipients": []
+    },
+    {
+      "name": "Travis",
+      "pastRecipients": []
+    },
+    {
+      "name": "Joe",
+      "pastRecipients": []
+    }
+  ]
+}
